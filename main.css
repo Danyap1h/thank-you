@@ -48,32 +48,13 @@ button:hover{
     background: none;
     border-radius: 30px;
 
-    font-size: 200%;
+    /*font-size: 200%;*/
     font-family: sans-serif;
     color: rgb(151, 151, 151);
 }
 
 .button-d{
-    margin-top: 5%;
-
-    border: 3px solid rgb(181, 181, 181);/*(80, 80, 80)*/
-    background: none;
-    border-radius: 30px;
-
     font-size: 100%;
-    font-family: sans-serif;
-    color: rgb(146, 146, 146); 
-}
-.button-d:hover{
-    margin-top: 5%;
-
-    border: 3px solid rgb(146, 146, 146);
-    background: none;
-    border-radius: 30px;
-
-    font-size: 100%;
-    font-family: sans-serif;
-    color: rgb(151, 151, 151);
 }
 
 
