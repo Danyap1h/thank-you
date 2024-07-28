@@ -60,9 +60,20 @@ button:hover{
     background: none;
     border-radius: 30px;
 
-    font-size: 150%;
+    font-size: 100%;
     font-family: sans-serif;
     color: rgb(80, 80, 80); 
+}
+.button-d:hover{
+    margin-top: 5%;
+
+    border: 3px solid rgb(146, 146, 146);
+    background: none;
+    border-radius: 30px;
+
+    font-size: 100%;
+    font-family: sans-serif;
+    color: rgb(151, 151, 151);
 }
 
 
