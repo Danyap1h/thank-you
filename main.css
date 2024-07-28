@@ -53,6 +53,19 @@ button:hover{
     color: rgb(151, 151, 151);
 }
 
+.button-d{
+    margin-top: 5%;
+
+    border: 3px solid rgb(80, 80, 80);
+    background: none;
+    border-radius: 30px;
+
+    font-size: 150%;
+    font-family: sans-serif;
+    color: rgb(80, 80, 80); 
+}
+
+
 
 .photo{
     margin-top: 5%;
