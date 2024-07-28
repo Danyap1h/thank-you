@@ -48,13 +48,13 @@ button:hover{
     background: none;
     border-radius: 30px;
 
-    /*font-size: 200%;*/
     font-family: sans-serif;
     color: rgb(151, 151, 151);
 }
+font-size: 200%;
 
 .button-d{
-    font-size: 100%;
+    font-size: 70%;
 }
 
 
